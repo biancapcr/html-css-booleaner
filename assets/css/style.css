@@ -1,8 +1,32 @@
 body{
-  font-family:Georgia, 'Times New Roman', Times, serif
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  margin: 0;
 }
 
+h1{
+  font-size: 36px;
+  margin-left:10px;
+}
 
+h3{
+  margin-left:10px;
+  color: #7E7E7E;
+}
+
+h4{
+  margin-left: 10px;
+  color: #7E7E7E;
+}
+
+a{
+  text-decoration: none;
+	color: #3BA2C3
+}
+
+.crediti{
+  margin-left: 10px;
+  font-size: small;
+}
 
 
 
